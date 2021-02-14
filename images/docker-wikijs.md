@@ -34,6 +34,8 @@ The architectures supported by this image are:
 
 Here are some example snippets to help you get started creating a container from this image.
 
+This container has an SQLite database built in, or other database backends can be used with the environment variables at the [Wiki.js Docs](https://docs.requarks.io/install/docker).
+
 ### docker-compose ([recommended](https://docs.linuxserver.io/general/docker-compose))
 
 Compatible with docker-compose v2 schemas.
